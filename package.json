@@ -9,16 +9,17 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "deploy": "gh-pages -b master -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://darylbre.github.io/Clicky-Game/",
+  "homepage": "https://darylbre.github.io/clicky-drummers/",
   "browserslist": {
     "production": [
       ">0.2%",
