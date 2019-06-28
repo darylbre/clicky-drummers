@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clicky-drummers/static/css/main.b9aac6f9.chunk.css",
+    "main.js": "/clicky-drummers/static/js/main.a8ac1283.chunk.js",
+    "main.js.map": "/clicky-drummers/static/js/main.a8ac1283.chunk.js.map",
+    "runtime~main.js": "/clicky-drummers/static/js/runtime~main.62208ec9.js",
+    "runtime~main.js.map": "/clicky-drummers/static/js/runtime~main.62208ec9.js.map",
+    "static/js/2.f75e8bbc.chunk.js": "/clicky-drummers/static/js/2.f75e8bbc.chunk.js",
+    "static/js/2.f75e8bbc.chunk.js.map": "/clicky-drummers/static/js/2.f75e8bbc.chunk.js.map",
+    "index.html": "/clicky-drummers/index.html",
+    "precache-manifest.8ef6fc321d7b16d58bcc9b454459899e.js": "/clicky-drummers/precache-manifest.8ef6fc321d7b16d58bcc9b454459899e.js",
+    "service-worker.js": "/clicky-drummers/service-worker.js",
+    "static/css/main.b9aac6f9.chunk.css.map": "/clicky-drummers/static/css/main.b9aac6f9.chunk.css.map"
+  }
+}
